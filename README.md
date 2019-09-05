@@ -12,3 +12,5 @@ A C++ program with Digital Clock GUI functionality
 - Alarms
 - Current Date and Time
 - Time before Alarm
+- Stop Watch
+- Timer
